@@ -4,28 +4,8 @@ Next.js internationalization template.
 
 ## Getting started
 
-Clone this repository and run:
-
 ```sh
-npm install
-# or
-pnpm install
-# or
-yarn install
-# or
-bun install
-```
-
-After the installation is complete start the development server:
-
-```sh
-npm run dev
-# or
-pnpm dev
-# or
-yarn dev
-# or
-bun dev
+npx create-next-app --example https://github.com/yaviskokakola/i18n-template
 ```
 
 ## adding new languages
